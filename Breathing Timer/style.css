@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#2e86de;
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+.timer{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 15px 25px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #c8d6e5;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.692);
+    font-weight: bold;
+    border: none;
+}
